@@ -1,2 +1,3 @@
-# micro-microservice-amiz
-Automated issue comment bot repository
+# Micro Microservice Amiz
+
+Automated issue comment bot repository.
